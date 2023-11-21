@@ -17,7 +17,7 @@ import numpy as np
 
 # 超參數設定
 batch_size = 64
-epochs = 40
+epochs = 80
 
 # 定義數據轉換
 transform = transforms.Compose([
